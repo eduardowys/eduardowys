@@ -98,22 +98,20 @@ Me chamo Eduardo Wesley, tenho 20 anos e sou natural de Fortaleza - Ce. Formado 
 ---
 
 ### 📊 Estatísticas
-<p>
+<div style="display: flex; align-items: center;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="210" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eduardowys&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardowys&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="GitHub Stats" 
+    height="210" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardowys&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
+
 <br/>
 </div>&nbsp;&nbsp;
 
