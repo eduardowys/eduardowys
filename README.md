@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Hello+:%29,+My+name+is+Eduardo+Wesley;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-**`Desenvolvedor FullStack`** **`Cloud computing`**  **`AWS`**
+**`Desenvolvedor FullStack`** **`Cloud computing`**  **`AWS`** **`Terraform`**
 
 Me chamo Eduardo Wesley, tenho 20 anos e sou natural de Fortaleza - Ce. Formado no curso técnico em Automação Industrial - IFCE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifanor Wyden. 
 
