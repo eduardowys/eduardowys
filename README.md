@@ -2,9 +2,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Hello+:%29,+My+name+is+Eduardo+Wesley;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-**`Desenvolvedor FullStack`** **`Cloud computing`**  **`AWS`** **`Terraform`**
+**`Estudante Cloud`** **`1X AWS Certified`**  **`DevOps`** **`Terraform`**
 
-Me chamo Eduardo Wesley, tenho 20 anos e sou natural de Fortaleza - Ce. Formado no curso técnico em Automação Industrial - IFCE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifanor Wyden. 
+Me chamo Eduardo Wesley, natural de Fortaleza - Ceará.
+
+Sou formado em Técnico em Automação Industrial pelo IFCE e atualmente curso Análise e Desenvolvimento de Sistemas na Unifanor Wyden. Busco constantemente novos desafios para aplicar meu conhecimento, expandir minhas habilidades e contribuir para a transformação digital nas organizações.
+
+Atualmente, foco meus estudos em Cloud, DevOps e Infraestrutura como Código. Sou 1X AWS Certified e atuo com ferramentas como Terraform, buscando evoluir continuamente nesse ecossistema. 
 
 
 ## Contatos:
